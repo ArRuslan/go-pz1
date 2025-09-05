@@ -82,3 +82,76 @@ func main() {
 		fmt.Println("No students with grade >4.0 were found!")
 	}
 }
+
+/*
+Student0 a. b.
+6
+3
+4
+4
+4
+4
+Student1 c. d.
+6
+4
+3
+2
+3
+3
+Student2 e. f.
+4
+4
+5
+2
+2
+2
+Student3 g. h.
+8
+2
+5
+5
+4
+2
+Student4 i. j.
+7
+5
+3
+5
+5
+3
+Student5 k. l.
+7
+5
+3
+5
+2
+5
+Student6 m. n.
+9
+3
+3
+3
+2
+2
+Student7 o. p.
+3
+3
+4
+4
+5
+5
+Student8 q. r.
+10
+4
+2
+2
+5
+3
+Student9 s. t.
+7
+4
+4
+3
+5
+3
+*/
